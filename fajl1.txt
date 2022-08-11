@@ -1,1 +1,1 @@
-Tekst fajla 1.
+Hello world
